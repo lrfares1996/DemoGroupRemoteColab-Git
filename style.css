@@ -28,12 +28,12 @@ table
     text-align: center;
     height: 100%;
     width: 100%;
-    border: 2px black solid;
+    border: 3px black solid;
 }
 
 td,th
 {
-    border: 1px black solid;
+    border: 2px black solid;
 }
 
 th
@@ -44,5 +44,5 @@ th
 
 td
 {
-    font-size: .85em;
+    font-size: .9em;
 }
